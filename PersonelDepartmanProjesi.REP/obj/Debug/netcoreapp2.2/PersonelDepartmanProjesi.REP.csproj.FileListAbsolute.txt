@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.deps.json
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.runtimeconfig.json
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.runtimeconfig.dev.json
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.pdb
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.ENT.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.pdb
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.ENT.pdb
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.AssemblyInfo.cs
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.csproj.CopyComplete
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.REP\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.REP.pdb

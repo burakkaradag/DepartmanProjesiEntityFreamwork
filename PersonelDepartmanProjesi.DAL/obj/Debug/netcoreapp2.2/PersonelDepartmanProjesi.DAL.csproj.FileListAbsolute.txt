@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.deps.json
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.runtimeconfig.json
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.runtimeconfig.dev.json
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.pdb
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.ENT.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.ENT.pdb
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.AssemblyInfo.cs
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.csproj.CopyComplete
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DAL\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DAL.pdb

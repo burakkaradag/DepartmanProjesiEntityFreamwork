@@ -1,0 +1,45 @@
+﻿@model PersonelDepartmanProjesi.Models.PersonelModel
+@{
+    ViewData["Title"] = "Liste";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Liste</h1>
+<form method="get" action="/Personel/Ekle">
+    <button class="btn btn-primary">ekle</button>
+
+</form>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+
+            <th>ıd</th>
+            <th>ad</th>
+            <th>soyad</th>
+            <th>bolum ad</th>
+            <th> Detay </th>
+            <th> guncelle </th>
+            <th> Sil </th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.olist)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Ad</td>
+                <td>@item.Soyad</td>
+                <td>@item.Bolumad</td>
+                <td><a href="/Personel/Detay/@item.Id"><i class="fas fa-pen"></i></a></td>
+                <td><a href="/Personel/Guncel/@item.Id"><i class="fas fa-pen"></i></a></td>
+                <td><a href="/Personel/Sil/@item.Id"><i class="fas fa-pen"></i></a></td>
+
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+

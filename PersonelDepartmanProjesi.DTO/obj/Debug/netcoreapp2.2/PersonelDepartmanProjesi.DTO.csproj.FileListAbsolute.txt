@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.deps.json
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\bin\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.pdb
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.AssemblyInfo.cs
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.dll
+C:\Users\pc\source\repos\PersonelDepartmanProjesi\PersonelDepartmanProjesi.DTO\obj\Debug\netcoreapp2.2\PersonelDepartmanProjesi.DTO.pdb
